@@ -1,0 +1,17 @@
+1. Create 3 gmail accounts (support, invoice and cancellation)
+2. Call all 3 gmail account for every 3 seconds.
+3. Connected to 3 gmail account.
+4. Open the inbox, search for uread email and read unread emails from inbox.
+5. Parse email and fetch from, to ,subject, messageId, and body
+6. Insert parsed data into REDIS database.
+7. Send messageId, subject, emailBody to AIML.
+8. Send email body to the aiml engine api and get response as 
+sentiment, priority, category and subcategory for that email.
+9. Call salesforce api to get access-token.
+10. Create case in Salesforce.
+11. Delete message from REDIS database.
+12. Mark email as read.
+13. Label for email.
+14. Create logfile to track the execution of code.
+15. Run code in daemon mode.
+16. Implementh the code in docker.

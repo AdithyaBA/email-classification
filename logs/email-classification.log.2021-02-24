@@ -1,0 +1,4 @@
+[2021-02-25T13:23:35.471] [DEBUG] default - STARTED EMAIL READING... -- 35 :: D:\email-classificarion-docker\EmailClassification_App6\indexInvoice.js
+[2021-02-25T13:23:35.471] [DEBUG] default - STARTED EMAIL READING... -- 35 :: D:\email-classificarion-docker\EmailClassification_App6\indexCancel.js
+[2021-02-25T13:23:36.235] [DEBUG] default - NO. OF UNREAD EMAILS 0 -- 41 :: D:\email-classificarion-docker\EmailClassification_App6\indexInvoice.js
+[2021-02-25T13:23:36.298] [DEBUG] default - NO. OF UNREAD EMAILS 0 -- 41 :: D:\email-classificarion-docker\EmailClassification_App6\indexCancel.js

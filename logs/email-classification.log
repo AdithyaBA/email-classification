@@ -1,0 +1,198 @@
+[2021-02-25T13:23:35.895] [DEBUG] default - STARTED EMAIL READING... -- 35 :: D:\email-classificarion-docker\EmailClassification_App6\indexSupport.js
+[2021-02-25T13:23:36.805] [DEBUG] default - NO. OF UNREAD EMAILS 1 -- 41 :: D:\email-classificarion-docker\EmailClassification_App6\indexSupport.js
+[2021-02-25T13:23:37.408] [DEBUG] default - Finished Email Reading... -- 122 :: D:\email-classificarion-docker\EmailClassification_App6\indexSupport.js
+[2021-02-25T13:23:37.412] [DEBUG] default - DONE FETCHING ALL UNREAD EMAILS! -- 131 :: D:\email-classificarion-docker\EmailClassification_App6\indexSupport.js
+[2021-02-25T13:23:37.478] [DEBUG] default - Processed by TO Field  veneratesuport2021@gmail.com -- 74 :: D:\email-classificarion-docker\EmailClassification_App6\indexSupport.js
+[2021-02-25T13:23:37.480] [DEBUG] default - SUBJECT:: SuvTtest1 -- 63 :: D:\email-classificarion-docker\EmailClassification_App6\refine.js
+[2021-02-25T13:23:37.482] [DEBUG] default - TO:: veneratesuport2021@gmail.com -- 72 :: D:\email-classificarion-docker\EmailClassification_App6\refine.js
+[2021-02-25T13:23:37.484] [DEBUG] default - FROM:: adithya.ba@suveechi.in -- 90 :: D:\email-classificarion-docker\EmailClassification_App6\refine.js
+[2021-02-25T13:23:37.486] [DEBUG] default - MessageId <CAOjdCTKeMVUWk8ZkYdAv_iXP-41FL9-Cr6YtcU+d8hD3eqfUNw@mail.gmail.com> -- 95 :: D:\email-classificarion-docker\EmailClassification_App6\refine.js
+[2021-02-25T13:23:37.498] [DEBUG] default - qqqqqqqq {
+  messageId: '<CAOjdCTKeMVUWk8ZkYdAv_iXP-41FL9-Cr6YtcU+d8hD3eqfUNw@mail.gmail.com>',
+  date: 2021-02-18T11:55:29.000Z,
+  subject: 'SuvTtest1',
+  sender: 'adithya.ba@suveechi.in',
+  receiver: 'veneratesuport2021@gmail.com',
+  receiverCc: '',
+  emailBody: 'Thanks & Regards Adithya B A ',
+  emailBodyHtml: '<div dir="ltr"><br clear="all"><div><div dir="ltr" class="gmail_signature" data-smartmail="gmail_signature"><div dir="ltr">Thanks &amp; Regards<div>Adithya B A</div></div></div></div></div> ',
+  incoming: 'true',
+  status: 'open',
+  attachment_count: 0
+} -- 17 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T13:23:37.604] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 28 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T13:23:37.605] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 28 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T13:23:37.608] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 28 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T13:23:37.609] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 28 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T13:23:37.611] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 28 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T13:23:37.613] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 28 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T13:23:37.615] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 28 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T13:23:37.617] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 28 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T13:23:37.632] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 28 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T13:23:37.633] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 28 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T13:23:37.645] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 28 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T13:23:37.653] [ERROR] default - AIML ENGINE NOT ABLE TO PROCESS DATA -- 50 :: D:\email-classificarion-docker\EmailClassification_App6\sendAiMl.js
+[2021-02-25T13:26:58.357] [DEBUG] default - STARTED EMAIL READING... -- 35 :: D:\email-classificarion-docker\EmailClassification_App6\indexCancel.js
+[2021-02-25T13:26:58.366] [DEBUG] default - STARTED EMAIL READING... -- 35 :: D:\email-classificarion-docker\EmailClassification_App6\indexInvoice.js
+[2021-02-25T13:26:58.517] [DEBUG] default - STARTED EMAIL READING... -- 35 :: D:\email-classificarion-docker\EmailClassification_App6\indexSupport.js
+[2021-02-25T13:26:59.046] [DEBUG] default - NO. OF UNREAD EMAILS 0 -- 41 :: D:\email-classificarion-docker\EmailClassification_App6\indexInvoice.js
+[2021-02-25T13:26:59.088] [DEBUG] default - NO. OF UNREAD EMAILS 0 -- 41 :: D:\email-classificarion-docker\EmailClassification_App6\indexCancel.js
+[2021-02-25T13:26:59.334] [DEBUG] default - NO. OF UNREAD EMAILS 1 -- 41 :: D:\email-classificarion-docker\EmailClassification_App6\indexSupport.js
+[2021-02-25T13:26:59.751] [DEBUG] default - Finished Email Reading... -- 122 :: D:\email-classificarion-docker\EmailClassification_App6\indexSupport.js
+[2021-02-25T13:26:59.756] [DEBUG] default - DONE FETCHING ALL UNREAD EMAILS! -- 131 :: D:\email-classificarion-docker\EmailClassification_App6\indexSupport.js
+[2021-02-25T13:26:59.819] [DEBUG] default - Processed by TO Field  veneratesuport2021@gmail.com -- 74 :: D:\email-classificarion-docker\EmailClassification_App6\indexSupport.js
+[2021-02-25T13:26:59.834] [DEBUG] default - SUBJECT:: SuvTtest1 -- 63 :: D:\email-classificarion-docker\EmailClassification_App6\refine.js
+[2021-02-25T13:26:59.835] [DEBUG] default - TO:: veneratesuport2021@gmail.com -- 72 :: D:\email-classificarion-docker\EmailClassification_App6\refine.js
+[2021-02-25T13:26:59.837] [DEBUG] default - FROM:: adithya.ba@suveechi.in -- 90 :: D:\email-classificarion-docker\EmailClassification_App6\refine.js
+[2021-02-25T13:26:59.838] [DEBUG] default - MessageId <CAOjdCTKeMVUWk8ZkYdAv_iXP-41FL9-Cr6YtcU+d8hD3eqfUNw@mail.gmail.com> -- 95 :: D:\email-classificarion-docker\EmailClassification_App6\refine.js
+[2021-02-25T13:26:59.884] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T13:26:59.885] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T13:26:59.887] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T13:26:59.888] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T13:26:59.903] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T13:26:59.904] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T13:26:59.906] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T13:26:59.950] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T13:26:59.954] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T13:26:59.955] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T13:26:59.966] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T13:26:59.973] [ERROR] default - AIML ENGINE NOT ABLE TO PROCESS DATA -- 50 :: D:\email-classificarion-docker\EmailClassification_App6\sendAiMl.js
+[2021-02-25T13:28:28.272] [DEBUG] default - STARTED EMAIL READING... -- 35 :: D:\email-classificarion-docker\EmailClassification_App6\indexInvoice.js
+[2021-02-25T13:28:28.285] [DEBUG] default - STARTED EMAIL READING... -- 35 :: D:\email-classificarion-docker\EmailClassification_App6\indexCancel.js
+[2021-02-25T13:28:28.430] [DEBUG] default - STARTED EMAIL READING... -- 35 :: D:\email-classificarion-docker\EmailClassification_App6\indexSupport.js
+[2021-02-25T13:28:28.969] [DEBUG] default - NO. OF UNREAD EMAILS 0 -- 41 :: D:\email-classificarion-docker\EmailClassification_App6\indexInvoice.js
+[2021-02-25T13:28:28.985] [DEBUG] default - NO. OF UNREAD EMAILS 0 -- 41 :: D:\email-classificarion-docker\EmailClassification_App6\indexCancel.js
+[2021-02-25T13:28:29.257] [DEBUG] default - NO. OF UNREAD EMAILS 1 -- 41 :: D:\email-classificarion-docker\EmailClassification_App6\indexSupport.js
+[2021-02-25T13:28:30.366] [DEBUG] default - Finished Email Reading... -- 122 :: D:\email-classificarion-docker\EmailClassification_App6\indexSupport.js
+[2021-02-25T13:28:30.370] [DEBUG] default - DONE FETCHING ALL UNREAD EMAILS! -- 131 :: D:\email-classificarion-docker\EmailClassification_App6\indexSupport.js
+[2021-02-25T13:28:30.418] [DEBUG] default - Processed by TO Field  veneratesuport2021@gmail.com -- 74 :: D:\email-classificarion-docker\EmailClassification_App6\indexSupport.js
+[2021-02-25T13:28:30.444] [DEBUG] default - SUBJECT:: With Attachment -- 63 :: D:\email-classificarion-docker\EmailClassification_App6\refine.js
+[2021-02-25T13:28:30.445] [DEBUG] default - TO:: veneratesuport2021@gmail.com -- 72 :: D:\email-classificarion-docker\EmailClassification_App6\refine.js
+[2021-02-25T13:28:30.446] [DEBUG] default - FROM:: adithyahebbarhf@gmail.com -- 90 :: D:\email-classificarion-docker\EmailClassification_App6\refine.js
+[2021-02-25T13:28:30.447] [DEBUG] default - MessageId <CAHdXxpR4RGY-xMEhybx36vgpVB9Rd++BPmJohT2_XdWgGGCb1A@mail.gmail.com> -- 95 :: D:\email-classificarion-docker\EmailClassification_App6\refine.js
+[2021-02-25T13:28:30.452] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T13:28:30.459] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T13:28:30.464] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T13:28:30.474] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T13:28:30.478] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T13:28:30.480] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T13:28:30.481] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T13:28:30.492] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T13:28:30.495] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T13:28:30.497] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T13:28:30.506] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T13:28:30.511] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T13:28:30.512] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T13:28:30.513] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T13:28:35.638] [DEBUG] default - bbbbbbb 993 -- 140 :: D:\email-classificarion-docker\EmailClassification_App6\emptyEmailBody.js
+[2021-02-25T13:28:35.650] [DEBUG] default - --------------MESSAGE DELETED FROM REDIS DB---------- 1 -- 145 :: D:\email-classificarion-docker\EmailClassification_App6\emptyEmailBody.js
+[2021-02-25T16:58:09.117] [DEBUG] default - STARTED EMAIL READING... -- 35 :: D:\email-classificarion-docker\EmailClassification_App6\indexInvoice.js
+[2021-02-25T16:58:09.187] [DEBUG] default - STARTED EMAIL READING... -- 35 :: D:\email-classificarion-docker\EmailClassification_App6\indexCancel.js
+[2021-02-25T16:58:09.539] [DEBUG] default - STARTED EMAIL READING... -- 35 :: D:\email-classificarion-docker\EmailClassification_App6\indexSupport.js
+[2021-02-25T16:58:09.973] [DEBUG] default - NO. OF UNREAD EMAILS 0 -- 41 :: D:\email-classificarion-docker\EmailClassification_App6\indexCancel.js
+[2021-02-25T16:58:09.991] [DEBUG] default - NO. OF UNREAD EMAILS 0 -- 41 :: D:\email-classificarion-docker\EmailClassification_App6\indexInvoice.js
+[2021-02-25T16:58:10.417] [DEBUG] default - NO. OF UNREAD EMAILS 0 -- 41 :: D:\email-classificarion-docker\EmailClassification_App6\indexSupport.js
+[2021-02-25T21:42:49.992] [ERROR] default - ----IMAP CONNECTION TIMEOUT ERROR. PLEASE CHECK INTERNET CONNECTION AND RESTART THIS APPLICATION---- Error: Timed out while connecting to server
+    at Timeout._onTimeout (D:\email-classificarion-docker\EmailClassification_App6\node_modules\imap\lib\Connection.js:280:15)
+    at listOnTimeout (node:internal/timers:556:17)
+    at processTimers (node:internal/timers:499:7) {
+  source: 'timeout'
+} -- 144 :: D:\email-classificarion-docker\EmailClassification_App6\indexCancel.js
+[2021-02-25T21:42:50.060] [INFO] default - Error: Timed out while connecting to server
+    at Timeout._onTimeout (D:\email-classificarion-docker\EmailClassification_App6\node_modules\imap\lib\Connection.js:280:15)
+    at listOnTimeout (node:internal/timers:556:17)
+    at processTimers (node:internal/timers:499:7) {
+  source: 'timeout'
+}
+[2021-02-25T21:42:50.069] [ERROR] default - ---IMAP CONNECTION ERROR--- Error: Timed out while connecting to server
+    at Timeout._onTimeout (D:\email-classificarion-docker\EmailClassification_App6\node_modules\imap\lib\Connection.js:280:15)
+    at listOnTimeout (node:internal/timers:556:17)
+    at processTimers (node:internal/timers:499:7) {
+  source: 'timeout'
+} -- 147 :: D:\email-classificarion-docker\EmailClassification_App6\indexCancel.js
+[2021-02-25T21:43:59.372] [ERROR] default - ---IMAP CONNECTION ERROR--- Error: Timed out while authenticating with server
+    at Timeout._onTimeout (D:\email-classificarion-docker\EmailClassification_App6\node_modules\imap\lib\Connection.js:139:17)
+    at listOnTimeout (node:internal/timers:556:17)
+    at processTimers (node:internal/timers:499:7) {
+  source: 'timeout-auth'
+} -- 143 :: D:\email-classificarion-docker\EmailClassification_App6\indexSupport.js
+[2021-02-25T21:43:59.382] [ERROR] default - ---IMAP CONNECTION ERROR--- Error: Timed out while authenticating with server
+    at Timeout._onTimeout (D:\email-classificarion-docker\EmailClassification_App6\node_modules\imap\lib\Connection.js:139:17)
+    at listOnTimeout (node:internal/timers:556:17)
+    at processTimers (node:internal/timers:499:7) {
+  source: 'timeout-auth'
+} -- 143 :: D:\email-classificarion-docker\EmailClassification_App6\indexInvoice.js
+[2021-02-25T21:43:59.367] [ERROR] default - ----IMAP CONNECTION TIMEOUT ERROR. PLEASE CHECK INTERNET CONNECTION AND RESTART THIS APPLICATION---- Error: Timed out while authenticating with server
+    at Timeout._onTimeout (D:\email-classificarion-docker\EmailClassification_App6\node_modules\imap\lib\Connection.js:139:17)
+    at listOnTimeout (node:internal/timers:556:17)
+    at processTimers (node:internal/timers:499:7) {
+  source: 'timeout-auth'
+} -- 144 :: D:\email-classificarion-docker\EmailClassification_App6\indexCancel.js
+[2021-02-25T21:43:59.416] [INFO] default - Error: Timed out while authenticating with server
+    at Timeout._onTimeout (D:\email-classificarion-docker\EmailClassification_App6\node_modules\imap\lib\Connection.js:139:17)
+    at listOnTimeout (node:internal/timers:556:17)
+    at processTimers (node:internal/timers:499:7) {
+  source: 'timeout-auth'
+}
+[2021-02-25T21:43:59.431] [ERROR] default - ---IMAP CONNECTION ERROR--- Error: Timed out while authenticating with server
+    at Timeout._onTimeout (D:\email-classificarion-docker\EmailClassification_App6\node_modules\imap\lib\Connection.js:139:17)
+    at listOnTimeout (node:internal/timers:556:17)
+    at processTimers (node:internal/timers:499:7) {
+  source: 'timeout-auth'
+} -- 147 :: D:\email-classificarion-docker\EmailClassification_App6\indexCancel.js
+[2021-02-25T21:44:19.642] [DEBUG] default - STARTED EMAIL READING... -- 35 :: D:\email-classificarion-docker\EmailClassification_App6\indexInvoice.js
+[2021-02-25T21:44:19.644] [DEBUG] default - STARTED EMAIL READING... -- 35 :: D:\email-classificarion-docker\EmailClassification_App6\indexCancel.js
+[2021-02-25T21:44:19.747] [DEBUG] default - STARTED EMAIL READING... -- 35 :: D:\email-classificarion-docker\EmailClassification_App6\indexSupport.js
+[2021-02-25T21:44:20.387] [DEBUG] default - NO. OF UNREAD EMAILS 0 -- 41 :: D:\email-classificarion-docker\EmailClassification_App6\indexCancel.js
+[2021-02-25T21:44:20.505] [DEBUG] default - NO. OF UNREAD EMAILS 0 -- 41 :: D:\email-classificarion-docker\EmailClassification_App6\indexInvoice.js
+[2021-02-25T21:44:20.611] [DEBUG] default - NO. OF UNREAD EMAILS 1 -- 41 :: D:\email-classificarion-docker\EmailClassification_App6\indexSupport.js
+[2021-02-25T21:44:22.660] [DEBUG] default - Finished Email Reading... -- 122 :: D:\email-classificarion-docker\EmailClassification_App6\indexSupport.js
+[2021-02-25T21:44:22.695] [DEBUG] default - DONE FETCHING ALL UNREAD EMAILS! -- 131 :: D:\email-classificarion-docker\EmailClassification_App6\indexSupport.js
+[2021-02-25T21:44:22.760] [DEBUG] default - Processed by TO Field  veneratesuport2021@gmail.com -- 74 :: D:\email-classificarion-docker\EmailClassification_App6\indexSupport.js
+[2021-02-25T21:44:22.865] [DEBUG] default - SUBJECT:: With Attachment -- 64 :: D:\email-classificarion-docker\EmailClassification_App6\refine.js
+[2021-02-25T21:44:22.867] [DEBUG] default - TO:: veneratesuport2021@gmail.com -- 73 :: D:\email-classificarion-docker\EmailClassification_App6\refine.js
+[2021-02-25T21:44:22.880] [DEBUG] default - FROM:: adithyahebbarhf@gmail.com -- 91 :: D:\email-classificarion-docker\EmailClassification_App6\refine.js
+[2021-02-25T21:44:22.891] [DEBUG] default - MessageId <CAHdXxpR4RGY-xMEhybx36vgpVB9Rd++BPmJohT2_XdWgGGCb1A@mail.gmail.com> -- 96 :: D:\email-classificarion-docker\EmailClassification_App6\refine.js
+[2021-02-25T21:44:22.956] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T21:44:22.958] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T21:44:22.959] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T21:44:22.961] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T21:44:22.962] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T21:44:22.964] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T21:44:22.965] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T21:44:22.974] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T21:44:22.980] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T21:44:22.982] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T21:44:23.014] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T21:44:23.030] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T21:44:23.034] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T21:44:23.075] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T21:44:29.492] [DEBUG] default - bbbbbbb 993 -- 140 :: D:\email-classificarion-docker\EmailClassification_App6\emptyEmailBody.js
+[2021-02-25T21:44:29.507] [DEBUG] default - --------------MESSAGE DELETED FROM REDIS DB---------- 1 -- 145 :: D:\email-classificarion-docker\EmailClassification_App6\emptyEmailBody.js
+[2021-02-25T21:46:07.739] [DEBUG] default - STARTED EMAIL READING... -- 35 :: D:\email-classificarion-docker\EmailClassification_App6\indexInvoice.js
+[2021-02-25T21:46:07.738] [DEBUG] default - STARTED EMAIL READING... -- 35 :: D:\email-classificarion-docker\EmailClassification_App6\indexCancel.js
+[2021-02-25T21:46:08.617] [DEBUG] default - STARTED EMAIL READING... -- 35 :: D:\email-classificarion-docker\EmailClassification_App6\indexSupport.js
+[2021-02-25T21:46:09.020] [DEBUG] default - NO. OF UNREAD EMAILS 0 -- 41 :: D:\email-classificarion-docker\EmailClassification_App6\indexCancel.js
+[2021-02-25T21:46:09.021] [DEBUG] default - NO. OF UNREAD EMAILS 0 -- 41 :: D:\email-classificarion-docker\EmailClassification_App6\indexInvoice.js
+[2021-02-25T21:46:09.656] [DEBUG] default - NO. OF UNREAD EMAILS 1 -- 41 :: D:\email-classificarion-docker\EmailClassification_App6\indexSupport.js
+[2021-02-25T21:46:12.537] [DEBUG] default - Finished Email Reading... -- 122 :: D:\email-classificarion-docker\EmailClassification_App6\indexSupport.js
+[2021-02-25T21:46:12.544] [DEBUG] default - DONE FETCHING ALL UNREAD EMAILS! -- 131 :: D:\email-classificarion-docker\EmailClassification_App6\indexSupport.js
+[2021-02-25T21:46:12.593] [DEBUG] default - Processed by TO Field  veneratesuport2021@gmail.com -- 74 :: D:\email-classificarion-docker\EmailClassification_App6\indexSupport.js
+[2021-02-25T21:46:12.620] [DEBUG] default - SUBJECT:: With Attachment -- 63 :: D:\email-classificarion-docker\EmailClassification_App6\refine.js
+[2021-02-25T21:46:12.621] [DEBUG] default - TO:: veneratesuport2021@gmail.com -- 72 :: D:\email-classificarion-docker\EmailClassification_App6\refine.js
+[2021-02-25T21:46:12.646] [DEBUG] default - FROM:: adithyahebbarhf@gmail.com -- 90 :: D:\email-classificarion-docker\EmailClassification_App6\refine.js
+[2021-02-25T21:46:12.669] [DEBUG] default - MessageId <CAHdXxpR4RGY-xMEhybx36vgpVB9Rd++BPmJohT2_XdWgGGCb1A@mail.gmail.com> -- 95 :: D:\email-classificarion-docker\EmailClassification_App6\refine.js
+[2021-02-25T21:46:12.944] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T21:46:12.951] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T21:46:12.965] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T21:46:12.969] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T21:46:12.970] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T21:46:12.982] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T21:46:12.998] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T21:46:13.001] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T21:46:13.003] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T21:46:13.006] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T21:46:13.015] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T21:46:13.037] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T21:46:13.048] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
+[2021-02-25T21:46:13.051] [DEBUG] default - Data Inserted Successfully into REDIS DB OK -- 27 :: D:\email-classificarion-docker\EmailClassification_App6\redIs.js
